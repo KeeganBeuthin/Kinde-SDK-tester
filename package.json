@@ -1,0 +1,9 @@
+{
+  "name": "kinde-auth-workspace",
+  "private": true,
+  "workspaces": [
+    "kinde-auth-react",
+    "react-starter-kit"
+  ],
+  "packageManager": "pnpm@8.14.1"
+}
